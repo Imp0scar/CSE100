@@ -1,0 +1,40 @@
+==================
+test 1:
+student:
+
+grader:
+0
+A0
+
+==================
+test 2:
+student:
+
+grader:
+60
+(A0A1)
+
+==================
+test 3:
+student:
+
+grader:
+1500
+((A0A1)A2)
+
+==================
+test 4:
+student:
+
+grader:
+7125
+((A0(A1(A2A3)))(A4A5))
+
+==================
+test 5:
+student:
+
+grader:
+46585
+((A0A1)(((((((A2A3)A4)A5)A6)A7)A8)A9))
+
